@@ -22,14 +22,14 @@
 
 <a href="ADD_YOUR_LINKEDIN_LINK_HERE" target="_blank">
   <img
-    src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+    src="https://img.shields.io/badge/-%20-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
     alt="LinkedIn"
   />
 </a>
 
 <a href="mailto:YOUR_EMAIL_HERE">
   <img
-    src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+    src="https://img.shields.io/badge/-%20-D14836?style=for-the-badge&logo=gmail&logoColor=white"
     alt="Email"
   />
 </a>
@@ -41,45 +41,14 @@
 ### 🛠️ Technologies & Tools
 
 <p align="center">
-<img
-    alt="Python"
-    title="Python"
-    src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
-/><img
-    alt="Flask"
-    title="Flask"
-    src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"
-/><img
-    alt="Java"
-    title="Java"
-    src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"
-/><img
-    alt="HTML5"
-    title="HTML5"
-    src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
-/><img
-    alt="CSS3"
-    title="CSS3"
-    src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
-/><img
-    alt="Bash"
-    title="Bash"
-    src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"
-/><img
-    alt="Linux"
-    title="Linux"
-    src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"
-/><img
-    alt="Git"
-    title="Git"
-    src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"
-/><img
-    alt="Docker"
-    title="Docker"
-    src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"
-/><img
-    alt="MySQL"
-    title="MySQL"
-    src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"
-/>
+  <img title="Python" src="https://img.shields.io/badge/-%20-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img title="Flask" src="https://img.shields.io/badge/-%20-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img title="Java" src="https://img.shields.io/badge/-%20-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img title="HTML5" src="https://img.shields.io/badge/-%20-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img title="CSS3" src="https://img.shields.io/badge/-%20-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img title="Bash" src="https://img.shields.io/badge/-%20-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+  <img title="Linux" src="https://img.shields.io/badge/-%20-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img title="Git" src="https://img.shields.io/badge/-%20-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img title="Docker" src="https://img.shields.io/badge/-%20-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img title="MySQL" src="https://img.shields.io/badge/-%20-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
