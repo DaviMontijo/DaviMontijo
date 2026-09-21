@@ -19,7 +19,7 @@
 - How to reach me:
 
 <p align="center">
-  <a href="www.linkedin.com/in/davimontijo" target="_blank">
+  <a href="https://www.linkedin.com/in/davimontijo" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:montijodev@gmail.com">
